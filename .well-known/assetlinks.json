@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.innovationdigitalbiomarkers",
+    "sha256_cert_fingerprints":
+    ["97:90:5F:25:B0:B3:7C:16:18:F7:2F:B1:5C:22:9D:5F:5C:A6:7E:AC:CD:DF:38:A6:F1:DB:C9:F4:0C:74:69:C3"]
+  }
+}]
